@@ -12,3 +12,4 @@ This is for HackerRank problems solutions
 | 05     | [Birthday Cake Candles](https://github.com/RawanHamza/Hacker-Rank/blob/main/Data%20structures/birthdayCakeCandles.js)        | Easy        |
 | 06     | [Plus Minus](https://github.com/RawanHamza/Hacker-Rank/blob/main/Data%20structures/plusMinus.js)        | Easy        |
 | 07     | [Mini-Max Sum](https://github.com/RawanHamza/Hacker-Rank/blob/main/Data%20structures/miniMaxSum.js)        | Easy        |
+| 08     | [Time Conversion](https://github.com/RawanHamza/Hacker-Rank/blob/main/Data%20structures/timeConversion.js)        | Easy        |
