@@ -14,3 +14,4 @@ This is for HackerRank problems solutions
 | 07     | [Mini-Max Sum](https://github.com/RawanHamza/Hacker-Rank/blob/main/Data%20structures/miniMaxSum.js)        | Easy        |
 | 08     | [Time Conversion](https://github.com/RawanHamza/Hacker-Rank/blob/main/Data%20structures/timeConversion.js)        | Easy        |
 | 09     | [Lonely Integer](https://github.com/RawanHamza/Hacker-Rank/blob/main/Data%20structures/lonelyinteger.js)        | Easy        |
+| 10     | [Diagonal Difference](https://github.com/RawanHamza/Hacker-Rank/blob/main/Data%20structures/diagonalDifferenc.js)        | Easy        |
