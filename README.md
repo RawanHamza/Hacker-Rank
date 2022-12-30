@@ -15,3 +15,4 @@ This is for HackerRank problems solutions
 | 08     | [Time Conversion](https://github.com/RawanHamza/Hacker-Rank/blob/main/Data%20structures/timeConversion.js)        | Easy        |
 | 09     | [Lonely Integer](https://github.com/RawanHamza/Hacker-Rank/blob/main/Data%20structures/lonelyinteger.js)        | Easy        |
 | 10     | [Diagonal Difference](https://github.com/RawanHamza/Hacker-Rank/blob/main/Data%20structures/diagonalDifferenc.js)        | Easy        |
+| 11     | [Grading Students](https://github.com/RawanHamza/Hacker-Rank/blob/main/Data%20structures/gradingStudents.js)        | Easy        |
