@@ -19,3 +19,4 @@ This is for HackerRank problems solutions
 | 12     | [Between Two Sets](https://github.com/RawanHamza/Hacker-Rank/blob/main/Data%20structures/BetweenTwoSets.js)        | Easy        |
 | 13     | [Angry Professor](https://github.com/RawanHamza/Hacker-Rank/blob/main/Data%20structures/angryProfessor.js)        | Easy        |
 | 14     | [Minimum Distances](https://github.com/RawanHamza/Hacker-Rank/blob/main/Data%20structures/minimumDistances.js)        | Easy        |
+| 15     | [Beautiful Days at the Movies](https://github.com/RawanHamza/Hacker-Rank/blob/main/Data%20structures/beautifulDays.js)        | Easy        |
