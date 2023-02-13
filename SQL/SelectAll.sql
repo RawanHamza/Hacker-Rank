@@ -1,0 +1,3 @@
+SELECT * FROM CITY ;
+/*select with id*/
+SELECT * FROM CITY WHERE ID=1661;
