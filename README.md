@@ -1,7 +1,15 @@
 ## HackerRank
 This is for HackerRank problems solutions
 
-1. #### Data Structures:
+1. #### SQL:
+
+| ID     | Problem                                                                                                                       | DIFFICULTY  |
+| -------|:-----------------------------------------------------------------------------------------------------------------------------:| -----------:|
+| 01     | [Revising the Select Query](https://github.com/RawanHamza/Hacker-Rank/blob/main/SQL/RevisingtheSelectQuery.sql)        | Easy        |
+| 02     | [Select All](https://github.com/RawanHamza/Hacker-Rank/blob/main/SQL/SelectAll.sql)        | Easy        |
+
+
+2. #### Data Structures:
 
 | ID     | Problem                                                                                                                       | DIFFICULTY  |
 | -------|:-----------------------------------------------------------------------------------------------------------------------------:| -----------:|
